@@ -1,0 +1,42 @@
+.navitems{
+  list-style-type: none;
+  color:#7B68EE;
+  height: 100%;
+
+
+}
+#navbar{
+  float:left;
+  width: 20%;
+  font-family:serif;
+  font-size: 30px;
+  position: fixed;
+  height: 100%;
+  margin-right: 90%;
+
+
+}
+a{
+  text-decoration: none;
+  color: #7B68EE;
+}
+.navlinks:hover{
+  color:#808080;
+}
+#entry1{
+  margin-left: 20%;
+  margin-right: 20%;
+
+
+}
+h2{
+  word-spacing: 20px;
+  font-size: 40px;
+}
+.p1{
+  color: #778899;
+  font-size: 30px;
+}
+.firstno{
+  font-size: 30px;
+}
